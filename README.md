@@ -5,6 +5,131 @@ re:Invent 2023アップデートをまとめる
 
 [AWS Black Belt Online Seminar 2023 年 AWS re:Invent 速報](https://aws.amazon.com/jp/events/?events-japan-cards-feature.sort-by=item.additionalFields.sortDateTime&events-japan-cards-feature.sort-order=asc&events-japan-cards.sort-by=item.additionalFields.sortDateTime&events-japan-cards.sort-order=asc&awsf.event-type=*all&awsf.event-category=*all&events-japan-cards2.sort-by=item.additionalFields.sortDateTime&events-japan-cards2.sort-order=asc)
 
+## Amazon Detective introduces finding group summaries using generative AI
+
+Detectiveが生成系AIを活用し、検出グループの概要を提供するようになりました
+[Amazon Detective introduces finding group summaries using generative AI](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-detective-group-summaries-generative-ai/)
+
+## Announcing Amazon FSx for NetApp ONTAP scale-out file systems
+
+FSx for NetApp ONTAPにて、ファイルシステムがスケールアウト可能になりました。
+
+[Announcing Amazon FSx for NetApp ONTAP scale-out file systems](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-fsx-netapp-ontap-scale-out-file-systems/)
+
+[AWS Blog New – Scale-out file systems for Amazon FSx for NetApp ONTAP
+](https://aws.amazon.com/jp/blogs/aws/new-scale-out-file-systems-for-amazon-fsx-for-netapp-ontap/)
+
+## FSx for ONTAP now supports creating Multi-AZ file systems in Shared VPC participant accounts
+
+FSx for NetApp ONTAPが、参加者アカウントから共有VPCにマルチAZファイルシステムを作成できるようになりました。
+
+[FSx for ONTAP now supports creating Multi-AZ file systems in Shared VPC participant accounts](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/fsx-ontap-multi-az-file-systems-vpc-participant-accounts/)
+
+[AWS Blog Introducing shared VPC support for Amazon FSx for NetApp ONTAP](https://aws.amazon.com/jp/blogs/aws/introducing-shared-vpc-support-for-amazon-fsx-for-netapp-ontap/)
+
+## Announcing Lens Catalog for the AWS Well-Architected Tool
+
+Well-Architected Toolにて、Lens Catalogがリリースされました。
+
+[Announcing Lens Catalog for the AWS Well-Architected Tool](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-well-architected-tool-lens-catalog/)
+
+## Amazon Inspector expands AWS Lambda code scanning with generative AI powered remediation
+
+InspectorによるLambdaコードスキャンが、生成系AIと自動推論を使用したコード修復機能をサポートしました。
+
+[Amazon Inspector expands AWS Lambda code scanning with generative AI powered remediation](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-inspector-aws-lambda-code-scanning/)
+
+## Announcing utterance generation for Amazon Lex
+
+Amazon Lexに発話生成が追加されました。
+
+[Announcing utterance generation for Amazon Lex](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-lex-utterance-generation/)
+
+## Amazon WorkSpaces Thin Client is now generally available
+
+WorkSpaces Thin ClientがGAされました。
+
+[Amazon WorkSpaces Thin Client is now generally available](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-workspaces-thin-client/)
+
+## AWS Analytics simplify users’ data access across services with IAM Identity Center
+
+AWS Analyticsサービス（QuickSight, Redshift, Lake Formation, S3）が、IAM Identity CenterのIDフェデレーションによるアクセス管理に対応しました。
+
+[AWS Analytics simplify users’ data access across services with IAM Identity Center](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-analytics-users-data-access-iam-identity-center/)
+
+## AWS CloudTrail Lake data now available for zero-ETL analysis in Amazon Athena
+
+CloudTrail Lakeのデータをzero-RTLにてAthenaで分析できるようになりました
+
+[AWS CloudTrail Lake data now available for zero-ETL analysis in Amazon Athena](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-cloudtrail-lake-zero-etl-anlysis-athena/)
+
+## AWS announces CloudWatch Logs Anomaly Detection and Pattern analysis
+
+CloudWatch Logsが機械学習ベースの異常検出とパターン分析に対応しました
+
+[AWS announces CloudWatch Logs Anomaly Detection and Pattern analysis](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-cloudwatch-logs-anomaly-detection-pattern-analysis/)
+
+## Amazon EKS introduces EKS Pod Identity
+
+EKSが、IAMアクセス許可を簡素化するためのPod Identityを追加しました。
+
+[Amazon EKS introduces EKS Pod Identity](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-eks-pod-identity/)
+[AWS Blog Amazon EKS Pod Identity simplifies IAM permissions for applications on Amazon EKS clusters](https://aws.amazon.com/jp/blogs/aws/amazon-eks-pod-identity-simplifies-iam-permissions-for-applications-on-amazon-eks-clusters/) 
+
+## AWS Glue Data Quality announces anomaly detection and dynamic rules
+
+Glue Data Qualityにおいて、MLベースの異常検出機能と、自動調整される動的ルールがプレビューリリースされました。
+
+[AWS Glue Data Quality announces anomaly detection and dynamic rules](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-glue-data-quality-anomaly-detection-dynamic-rules/)
+
+[AWS Blog Use anomaly detection with AWS Glue to improve data quality (preview)](https://aws.amazon.com/jp/blogs/aws/use-anomaly-detection-with-aws-glue-to-improve-data-quality-preview/)
+
+## Announcing preview of AMB Access Polygon, serverless access to Polygon blockchain
+
+Amazon Managed Blockchain (AMB) Access Polygonがプレビューリリースされました。
+
+[Announcing preview of AMB Access Polygon, serverless access to Polygon blockchain](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amb-access-polygon-serverless-blockchain-preview/)
+
+## Amazon CloudWatch announces AI-powered natural language query generation (in preview)
+
+CloudWatchのLogs InsightsとMetrics Insightsにて、生成系AIを活用した自然言語でのクエリ作成がプレビューで追加されました。
+
+[Amazon CloudWatch announces AI-powered natural language query generation](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-cloudwatch-ai-powered-natural-language-query-generation-preview/)
+
+## AWS Config launches generative AI-powered natural language querying (Preview)
+
+Configにて、生成系AIを活用した自然言語でのクエリ作成がプレビューで追加されました。
+
+[AWS Config launches generative AI-powered natural language querying](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-config-generative-ai-powered-natural-language-querying-preview/)
+
+## Amazon EFS now supports up to 250,000 IOPS per file system
+
+EFSのファイルシステムごとに読み取りIOPSが最大250,000に、書き込みIOPSが最大50,000までサポートされるようになりました
+
+[Amazon EFS now supports up to 250,000 IOPS per file system](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-efs-250000-iops-per-file-system/)
+
+## Introducing Cost Optimization Hub
+
+Billing and Cost ManagementコンソールにCost Optimization Hubが追加されました
+
+[Introducing Cost Optimization Hub](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/cost-optimization-hub/)
+
+## Announcing the new Amazon EFS Archive storage class
+
+EFSのストレージクラスにArchiveが追加されました。
+
+[Announcing the new Amazon EFS Archive storage class](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-efs-archive-storage-class/)
+
+[AWS Blog Optimize your storage costs for rarely-accessed files with Amazon EFS Archive](https://aws.amazon.com/jp/blogs/aws/optimize-your-storage-costs-for-rarely-accessed-files-with-amazon-efs-archive/)
+
+## Amazon Web Services announces Unified Billing and Cost Management console
+
+コンソール上でBillingとCost Managementが統合されました。
+
+[Amazon Web Services announces Unified Billing and Cost Management console](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/unified-billing-cost-management-console/)
+
+[AWS Blog Managing your cloud finances with the unified Billing and Cost Management Console](https://aws.amazon.com/jp/blogs/aws-cloud-financial-management/managing-your-cloud-finances-with-the-unified-billing-and-cost-management-console/)
+
 ## New Amazon CloudWatch log class for infrequent access logs at a reduced price
 
 CloudWatch Logs に infrequent access クラスという、今までのスタンダードクラスと比べて1GBあたりのコストを半分で利用できる新しいログクラスがリリース！
@@ -130,3 +255,5 @@ BillingとCost Managementでデータのエクスポートができるように�
 
 - [Announcing Data Exports for AWS Billing and Cost Management](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-billing-cost-management-data-exports/)
   - [Introducing Data Exports for AWS Billing and Cost Management](https://aws.amazon.com/jp/blogs/aws-cloud-financial-management/introducing-data-exports-for-billing-and-cost-management/)
+
+[https://alta-whitechip.name/2023/11/25/update_nov_w4/](https://alta-whitechip.name/2023/11/25/update_nov_w4/)
