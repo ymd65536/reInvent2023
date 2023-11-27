@@ -5,6 +5,44 @@ re:Invent 2023アップデートをまとめる
 
 [AWS Black Belt Online Seminar 2023 年 AWS re:Invent 速報](https://aws.amazon.com/jp/events/?events-japan-cards-feature.sort-by=item.additionalFields.sortDateTime&events-japan-cards-feature.sort-order=asc&events-japan-cards.sort-by=item.additionalFields.sortDateTime&events-japan-cards.sort-order=asc&awsf.event-type=*all&awsf.event-category=*all&events-japan-cards2.sort-by=item.additionalFields.sortDateTime&events-japan-cards2.sort-order=asc)
 
+## Redshift provisioned concurrency scaling and serverless autoscaling now supports Create Table As Select (CTAS)
+
+Redshiftの同時実行スケーリングとサーバーレス自動スケーリングにて、Create Table As Select（CTAS）クエリがサポートされました
+
+[Redshift provisioned concurrency scaling and serverless autoscaling now supports Create Table As Select (CTAS)](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/redshift-provisioned-concurrency-scaling-serverless-autoscaling-ctas/)
+
+## FreeRTOS roadmap and code contribution process now published on freertos.org
+
+マイクロコントローラーおよび小型マイクロプロセッサー向けのRTOSであるFreeRTOSのロードマップがhttp://freertos.orgおよびGitHubで公開されました
+
+[FreeRTOS roadmap and code contribution process now published on freertos.org](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/freertos-roadmap-code-contribution-process-published-freertos-org/)
+
+## Announcing Amazon EC2 High Memory U7i instances (Preview)
+
+次世代ハイメモリインスタンスであるU7iがプレビューで登場しました。
+
+[Announcing Amazon EC2 High Memory U7i instances (Preview)](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-ec2-high-memory-u7i-instances-preview/)
+
+## Amazon S3 Access Grants integrate with identity providers to simplify data lake permissions
+
+S3 Access GrantsがActive DirectoryやIAMプリンシパルなどと統合し、簡単にデータセットへのマッピングを行い大規模なデータ権限を管理可能になりました。
+
+[Amazon S3 Access Grants integrate with identity providers to simplify data lake permissions](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-s3-access-grants-data-lake-permissions/)
+
+## Powered by foundation model, Amazon Transcribe now supports over 100 languages
+
+TranscribeがFMを活用し、自動音声認識（ASR）を100以上の言語に拡張しました。
+
+[Powered by foundation model, Amazon Transcribe now supports over 100 languages](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-transcribe-over-100-languages/)
+
+[AWS Machine Learning Blog Amazon Transcribe announces a new speech foundation model-powered ASR system that expands support to over 100 languages](https://aws.amazon.com/jp/blogs/machine-learning/amazon-transcribe-announces-a-new-speech-foundation-model-powered-asr-system-that-expands-support-to-over-100-languages/)
+
+## Amazon Redshift now support’s multi-data warehouse writes through data sharing (preview)
+
+Redshiftが、データ共有を介したマルチデータウェアハウスの書き込みをプレビューサポートしました
+
+[Amazon Redshift now support’s multi-data warehouse writes through data sharing (preview)](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-redshift-multi-data-warehouse-writes-data-sharing-preview/)
+
 ## Amazon Monitron launches Ex-rated sensors for hazardous locations
 
 機械学習ベースで産業機器の異常検知を行うMonitronに、防爆定格なEx-ratedセンサーが追加、販売されました。
