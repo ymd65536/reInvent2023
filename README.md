@@ -5,7 +5,25 @@ re:Invent 2023アップデートをまとめる
 
 [AWS Black Belt Online Seminar 2023 年 AWS re:Invent 速報](https://aws.amazon.com/jp/events/?events-japan-cards-feature.sort-by=item.additionalFields.sortDateTime&events-japan-cards-feature.sort-order=asc&events-japan-cards.sort-by=item.additionalFields.sortDateTime&events-japan-cards.sort-order=asc&awsf.event-type=*all&awsf.event-category=*all&events-japan-cards2.sort-by=item.additionalFields.sortDateTime&events-japan-cards2.sort-order=asc)
 
-## 
+## New Amazon CloudWatch log class for infrequent access logs at a reduced price
+
+CloudWatch Logs に infrequent access クラスという、今までのスタンダードクラスと比べて1GBあたりのコストを半分で利用できる新しいログクラスがリリース！
+
+[New Amazon CloudWatch log class for infrequent access logs at a reduced price](https://aws.amazon.com/jp/blogs/aws/new-amazon-cloudwatch-log-class-for-infrequent-access-logs-at-a-reduced-price/)
+
+https://x.com/track3jyo/status/1729044725100134765?s=20
+
+Logs IAはアクセスの料金が上がるとかじゃなくてそもそも機能制限なので半額
+
+## AWS Step Functions launches optimized integration for Amazon Bedrock
+
+Step FunctionsがBedrockと統合し、2つのアクションを実行できるようになりました。
+
+[AWS Step Functions launches optimized integration for Amazon Bedrock](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-step-functions-optimized-integration-bedrock/)
+
+ブログではInvokeModelのステート作成方法が紹介されています。
+
+[Build generative AI apps using AWS Step Functions and Amazon Bedrock](https://aws.amazon.com/jp/blogs/aws/build-generative-ai-apps-using-aws-step-functions-and-amazon-bedrock/?trk=f3da5d15-8262-4ccc-b6ac-edb58d9955e7&sc_channel=el)
 
 ## AWS CloudFormation introduces Git management of stacks
 
