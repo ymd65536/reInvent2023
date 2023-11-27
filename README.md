@@ -5,6 +5,48 @@ re:Invent 2023アップデートをまとめる
 
 [AWS Black Belt Online Seminar 2023 年 AWS re:Invent 速報](https://aws.amazon.com/jp/events/?events-japan-cards-feature.sort-by=item.additionalFields.sortDateTime&events-japan-cards-feature.sort-order=asc&events-japan-cards.sort-by=item.additionalFields.sortDateTime&events-japan-cards.sort-order=asc&awsf.event-type=*all&awsf.event-category=*all&events-japan-cards2.sort-by=item.additionalFields.sortDateTime&events-japan-cards2.sort-order=asc)
 
+## AWS Secrets Manager now supports batch retrieval of secrets
+
+Secrets Managerがシークレットをバッチで取得できるようになりました。
+
+[AWS Secrets Manager now supports batch retrieval of secrets](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-secrets-manager-batch-retrieval-secrets/)
+
+## IAM Access Analyzer now simplifies inspecting unused access to guide you toward least privilege
+
+IAM Access Analyzerが、未使用のサービスとアクションを可視化し、最小権限となるように設定しやすくなりました。
+
+[IAM Access Analyzer now simplifies inspecting unused access to guide you toward least privilege](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/iam-access-analyzer-inspecting-unused-access/)
+
+[AWS Blog IAM Access Analyzer updates: Find unused access, check policies before deployment](https://aws.amazon.com/jp/blogs/aws/iam-access-analyzer-updates-find-unused-access-check-policies-before-deployment/)
+
+## IAM Access Analyzer introduces custom policy checks powered by automated reasoning
+
+IAM Access Analyzerが、自動化された推論に基づき、IAMポリシーがセキュリティ標準に準拠しているか検証するカスタムポリシーチェックを提供しました。
+
+[IAM Access Analyzer introduces custom policy checks powered by automated reasoning](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/iam-access-analyzer-custom-policy-check/)
+
+## Announcing vision system data from AWS IoT FleetWise (Preview)
+
+IoT FleetWiseの新機能であるビジョンシステムデータがプレビューリリースされました。
+
+[Announcing vision system data from AWS IoT FleetWise (Preview)](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/vision-system-data-aws-iot-fleetwise-preview/)
+
+[Announcing AWS IoT FleetWise vision system data (Preview)](https://aws.amazon.com/jp/blogs/iot/announcing-aws-iot-fleetwise-vision-system-data-preview/)
+
+## AWS Compute Optimizer introduces customizable rightsizing recommendations for EC2 Instances
+
+Compute Optimizerに、パラメータを調整可能な推奨事項の作成が追加されました。
+
+[AWS Compute Optimizer introduces customizable rightsizing recommendations for EC2 Instances](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-compute-optimizer-customizable-rightsizing-ec2/)
+
+[AWS Cloud Financial Management How to take advantage of Rightsizing recommendation preferences in Compute Optimizer](https://aws.amazon.com/jp/blogs/aws-cloud-financial-management/how-to-take-advantage-of-rightsizing-recommendation-preferences-in-compute-optimizer/)
+
+## Automate AWS Control Tower landing zone operations using APIs
+
+Control Towerのランディングゾーンに関連するAPIが追加されました。
+
+[Automate AWS Control Tower landing zone operations using APIs](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/automate-aws-control-tower-zone-operations-apis/)
+
 ## AWS Free Tier usage is now available through the GetFreeTierUsage API
 
 GetFreeTierUsage APIが登場し、無料利用枠の使用量が確認できるようになりました。
