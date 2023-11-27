@@ -5,6 +5,12 @@ re:Invent 2023アップデートをまとめる
 
 [AWS Black Belt Online Seminar 2023 年 AWS re:Invent 速報](https://aws.amazon.com/jp/events/?events-japan-cards-feature.sort-by=item.additionalFields.sortDateTime&events-japan-cards-feature.sort-order=asc&events-japan-cards.sort-by=item.additionalFields.sortDateTime&events-japan-cards.sort-order=asc&awsf.event-type=*all&awsf.event-category=*all&events-japan-cards2.sort-by=item.additionalFields.sortDateTime&events-japan-cards2.sort-order=asc)
 
+## Announcing the general availability of AWS re:Post Private
+
+Redshift MLが大規模言語モデル（LLM）をプレビューサポートしました。
+
+[AWS announces support for large language models in Amazon Redshift ML (Preview)](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-large-language-models-amazon-redshift-ml-preview/)
+
 ## Recommend actions that increase brand loyalty with Amazon Personalize Next Best Action
 
 Personalize Next Best Actionがリリースされました。
