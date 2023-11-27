@@ -5,6 +5,50 @@ re:Invent 2023アップデートをまとめる
 
 [AWS Black Belt Online Seminar 2023 年 AWS re:Invent 速報](https://aws.amazon.com/jp/events/?events-japan-cards-feature.sort-by=item.additionalFields.sortDateTime&events-japan-cards-feature.sort-order=asc&events-japan-cards.sort-by=item.additionalFields.sortDateTime&events-japan-cards.sort-order=asc&awsf.event-type=*all&awsf.event-category=*all&events-japan-cards2.sort-by=item.additionalFields.sortDateTime&events-japan-cards2.sort-order=asc)
 
+## 
+
+## AWS CloudFormation introduces Git management of stacks
+
+CloudFormationがスタックをGitのリモートリポジトリと同期させて管理できるようになりました。
+
+[AWS CloudFormation introduces Git management of stacks](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-cloudformation-git-management-stacks/)
+
+[AWS DevOps Blog](Automate safe AWS CloudFormation deployments from GitHub)
+
+## Amazon EventBridge now supports partner integrations with Adobe and Stripe
+
+EventBridgeがAdobe I/OイベントおよびStripeとパートナー統合をサポートしました。
+
+[Amazon EventBridge now supports partner integrations with Adobe and Stripe](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-eventbridge-partner-integrations-adobe-stripe/)
+
+## AWS Step Functions launches support for HTTPS endpoints and a new TestState API
+
+Step FunctionsがHTTPSエンドポイントの使用と単一ステートのテストができるようになりました。
+
+[AWS Step Functions launches support for HTTPS endpoints and a new TestState API](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-step-functions-https-endpoints-teststate-api/)
+
+[AWS blog External endpoints and testing of task states now available in AWS Step Functions](https://aws.amazon.com/jp/blogs/aws/external-endpoints-and-testing-of-task-states-now-available-in-aws-step-functions/)
+
+## New Discover Apps page for PartyRock, an Amazon Bedrock Playground
+
+Bedrockを使ったPlaygroundであるPartyRockにDiscoverページが追加されました。
+
+[New Discover Apps page for PartyRock, an Amazon Bedrock Playground](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/app-discovery-page-partyrock-bedrock-playground/)
+
+## Announcing new enhancements to Amazon CodeWhisperer
+
+CodeWhispererがアップデートされ、IaCサポートや脆弱性修復、セキュリティスキャン対応言語拡大などの機能追加がありました
+
+[Announcing new enhancements to Amazon CodeWhisperer](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-codewhisperer-new-enhancements/)
+
+[AWS blog Amazon CodeWhisperer offers new AI-powered code remediation, IaC support, and integration with Visual Studio](https://aws.amazon.com/jp/blogs/aws/amazon-codewhisperer-offers-new-ai-powered-code-remediation-iac-support-and-integration-with-visual-studio/)
+
+## Assisted Slot Resolution with Generative AI
+
+Amazon Lexがスロット（ユーザーからの入力を変数に割り当てる機能）のフォールバック時にFMを活用して自動解決できるようになりました。
+
+[Assisted Slot Resolution with Generative AI](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/assisted-slot-resolution-generative-ai/)
+
 ## Announcing AWS Console-to-Code (Preview) to generate code for console actions
 
 バージニア北部リージョンのEC2コンソールにConsole-to-Codeがプレビューで登場しました。
