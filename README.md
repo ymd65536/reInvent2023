@@ -5,6 +5,46 @@ re:Invent 2023アップデートをまとめる
 
 [AWS Black Belt Online Seminar 2023 年 AWS re:Invent 速報](https://aws.amazon.com/jp/events/?events-japan-cards-feature.sort-by=item.additionalFields.sortDateTime&events-japan-cards-feature.sort-order=asc&events-japan-cards.sort-by=item.additionalFields.sortDateTime&events-japan-cards.sort-order=asc&awsf.event-type=*all&awsf.event-category=*all&events-japan-cards2.sort-by=item.additionalFields.sortDateTime&events-japan-cards2.sort-order=asc)
 
+## Amazon Monitron launches Ex-rated sensors for hazardous locations
+
+機械学習ベースで産業機器の異常検知を行うMonitronに、防爆定格なEx-ratedセンサーが追加、販売されました。
+
+[Amazon Monitron launches Ex-rated sensors for hazardous locations](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-monitron-ex-rated-sensors/)
+
+## Amazon Managed Service for Prometheus launches an agentless collector for Prometheus metrics from Amazon EKS
+
+Managed Service for PrometheusによるEKS向けのエージェントレスコレクターをリリースしました。
+
+[Amazon Managed Service for Prometheus launches an agentless collector for Prometheus metrics from Amazon EKS](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-managed-service-prometheus-agentless-collector-metrics-eks/)
+
+## CloudWatch now supports hybrid and multicloud metrics querying and alarming
+
+CloudWatchが複数ソースからのクエリをサポートし、OpenSearch, Manageed Service for Prometheus, Azure Monitorなどからのメトリクスを統合できるようになりました。
+
+[CloudWatch now supports hybrid and multicloud metrics querying and alarming](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/cloudwatch-hybrid-multicloud-metrics-querying-alarming/)
+
+[AWS News Blog Use Amazon CloudWatch to consolidate hybrid, multicloud, and on-premises metrics](https://aws.amazon.com/jp/blogs/aws/new-use-amazon-cloudwatch-to-consolidate-hybrid-multi-cloud-and-on-premises-metrics/)
+
+## AWS IoT SiteWise Edge Now Available on Siemens Industrial Edge Marketplace (Preview)
+
+Siemens Industrial Edge MarketplaceからIoT SiteWise Edgeをプレビュー導入できるようになりました。
+
+[AWS IoT SiteWise Edge Now Available on Siemens Industrial Edge Marketplace (Preview)](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-iot-sitewise-edge-siemens-industrial-edge-marketplace-preview/)
+
+## You can now manage and back up FSx for ONTAP FlexGroup volumes using the AWS Console and API
+
+FSx for NetApp ONTAPにて、FlexGroupボリュームの作成、管理、バックアップがコンソールとFSx API、AWS SDKでできるようになりました。
+
+[You can now manage and back up FSx for ONTAP FlexGroup volumes using the AWS Console and API](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/manage-back-up-fsx-netapp-flexgroup-volumes-aws-console-api/)
+
+[AWS News Blog FlexGroup Volume Management for Amazon FSx for NetApp ONTAP is now available](https://aws.amazon.com/jp/blogs/aws/flexgroup-volume-management-for-amazon-fsx-for-netapp-ontap-is-now-available/)
+
+## Announcing the general availability of AWS re:Post Private
+
+re:Post PrivateがGAになりました。
+
+[Announcing the general availability of AWS re:Post Private](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/general-availability-aws-re-post-private/)
+
 ## Announcing the general availability of AWS re:Post Private
 
 Redshift MLが大規模言語モデル（LLM）をプレビューサポートしました。
