@@ -5,6 +5,28 @@ re:Invent 2023アップデートをまとめる
 
 [AWS Black Belt Online Seminar 2023 年 AWS re:Invent 速報](https://aws.amazon.com/jp/events/?events-japan-cards-feature.sort-by=item.additionalFields.sortDateTime&events-japan-cards-feature.sort-order=asc&events-japan-cards.sort-by=item.additionalFields.sortDateTime&events-japan-cards.sort-order=asc&awsf.event-type=*all&awsf.event-category=*all&events-japan-cards2.sort-by=item.additionalFields.sortDateTime&events-japan-cards2.sort-order=asc)
 
+## AWS Free Tier usage is now available through the GetFreeTierUsage API
+
+GetFreeTierUsage APIが登場し、無料利用枠の使用量が確認できるようになりました。
+
+[AWS Free Tier usage is now available through the GetFreeTierUsage API](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-free-tier-usage-getfreetierusage-api/)
+
+[AWS Blog Check your AWS Free Tier usage programmatically with a new API](https://aws.amazon.com/jp/blogs/aws/check-your-aws-free-tier-usage-programmatically-with-a-new-api/)
+
+## Application Load Balancer increases application availability with Automatic Target Weights
+
+Application Load Balancerが、ターゲットの正常性情報に基づいてトラフィックの重みを自動で調整するAutomatic Target Weights（ATW）をサポートしました
+
+[Application Load Balancer increases application availability with Automatic Target Weights](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/application-load-balancer-availability-target-weights/)
+
+[Networking & Content Delivery Improving availability with Application Load Balancer automatic target weights](https://aws.amazon.com/jp/blogs/networking-and-content-delivery/improving-availability-with-application-load-balancer-automatic-target-weights/)
+
+## Amazon Detective supports security investigations for Amazon GuardDuty ECS Runtime Monitoring
+
+Detectiveが、GuardDutyによるECSランタイム監視のセキュリティ調査をサポートしました
+
+[Amazon Detective supports security investigations for Amazon GuardDuty ECS Runtime Monitoring](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-detective-security-guardduty-ecs-monitoring/)
+
 ## Amazon Detective announces investigations for IAM
 
 Detectiveが、IAMエンティティ侵害の痕跡（IoC）を自動で調査できるようになりました
