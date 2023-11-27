@@ -5,9 +5,44 @@ re:Invent 2023アップデートをまとめる
 
 [AWS Black Belt Online Seminar 2023 年 AWS re:Invent 速報](https://aws.amazon.com/jp/events/?events-japan-cards-feature.sort-by=item.additionalFields.sortDateTime&events-japan-cards-feature.sort-order=asc&events-japan-cards.sort-by=item.additionalFields.sortDateTime&events-japan-cards.sort-order=asc&awsf.event-type=*all&awsf.event-category=*all&events-japan-cards2.sort-by=item.additionalFields.sortDateTime&events-japan-cards2.sort-order=asc)
 
+## Recommend actions that increase brand loyalty with Amazon Personalize Next Best Action
+
+Personalize Next Best Actionがリリースされました。
+
+[Recommend actions that increase brand loyalty with Amazon Personalize Next Best Action](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-personalize-next-best-action/)
+
+[AWS Machine Learning Blog Build brand loyalty by recommending actions to your users with Amazon Personalize Next Best Action](https://aws.amazon.com/jp/blogs/machine-learning/build-brand-loyalty-by-recommending-actions-to-your-users-with-amazon-personalize-next-best-action/)
+
+## Amazon Personalize now creates themes for recommendations using generative AI
+
+PersonalizeでContent Generatorがリリースされました。
+
+[Amazon Personalize now creates themes for recommendations using generative AI](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-personalize-themes-generative-ai/)
+
+[AWS Machine Learning Blog Drive hyper-personalized customer experiences with Amazon Personalize and generative AI](https://aws.amazon.com/jp/blogs/machine-learning/drive-hyper-personalized-customer-experiences-with-amazon-personalize-and-generative-ai/)
+
+## AWS Systems Manager Automation makes it easier to author runbooks with new low-code visual design experience
+
+Systems Manager Automationのビジュアルが新しくなり、Runbookが作成しやすくなりました。
+
+[AWS Systems Manager Automation makes it easier to author runbooks with new low-code visual design experience](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-systems-manager-automation-author-runbooks/)
+
+## AWS Config now supports periodic recording: Efficiently scale your change tracking
+
+Configにて、変更の都度更新される既存の継続的な記録に加えて24時間ごとの定期的な記録が選択できるようになりました。
+
+[AWS Config now supports periodic recording: Efficiently scale your change tracking](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/aws-config-periodic-recording/)
+
+## New from AWS: You can now customize security controls in AWS Security Hub
+
+Security Hubのセキュリティコントロールが一部カスタマイズ可能になりました。
+
+[New from AWS: You can now customize security controls in AWS Security Hub](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/customize-security-controls-aws-security-hub/)
+
 ## Amazon Transcribe Call Analytics now offers generative call summarization (preview)
 
 Transcribe Call Analyticsにおいて、生成系AIによる通話要約機能がプレビューリリースされました。
+
 [Amazon Transcribe Call Analytics now offers generative call summarization (preview)](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-transcribe-call-analytics-generative-call-summarization-preview/)
 
 [AWS News Blog Amazon Transcribe Call Analytics adds new generative AI-powered call summaries (preview)](https://aws.amazon.com/jp/blogs/aws/amazon-transcribe-call-analytics-adds-new-generative-ai-powered-call-summaries-preview/)
