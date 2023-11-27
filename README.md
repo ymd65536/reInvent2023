@@ -5,6 +5,14 @@ re:Invent 2023アップデートをまとめる
 
 [AWS Black Belt Online Seminar 2023 年 AWS re:Invent 速報](https://aws.amazon.com/jp/events/?events-japan-cards-feature.sort-by=item.additionalFields.sortDateTime&events-japan-cards-feature.sort-order=asc&events-japan-cards.sort-by=item.additionalFields.sortDateTime&events-japan-cards.sort-order=asc&awsf.event-type=*all&awsf.event-category=*all&events-japan-cards2.sort-by=item.additionalFields.sortDateTime&events-japan-cards2.sort-order=asc)
 
+## Amazon Detective announces investigations for IAM
+
+Detectiveが、IAMエンティティ侵害の痕跡（IoC）を自動で調査できるようになりました
+
+[Amazon Detective announces investigations for IAM](https://aws.amazon.com/jp/about-aws/whats-new/2023/11/amazon-detective-investigations-iam/)
+
+[AWS Blog Amazon Detective adds new capabilities to accelerate and improve your cloud security investigations](https://aws.amazon.com/jp/blogs/aws/amazon-detective-adds-investigations-and-finding-group-summaries-to-help-you-investigate-security-findings/)
+
 ## Announcing Conversational FAQ with generative AI for Amazon Lex (Preview)
 
 Amazon Lexの会話型FAQであるQnAIntentがプレビューで登場しました。
